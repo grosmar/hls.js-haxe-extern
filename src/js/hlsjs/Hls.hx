@@ -16,7 +16,7 @@ extern class Hls
 
 	static function isSupported():Bool;
 	
-	function new(?config:hlsjs.HlsConfig);
+	function new(?config:js.hlsjs.HlsConfig);
 	
 	function attachMedia(videoElement:VideoElement):Void;
 	
