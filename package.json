@@ -1,0 +1,24 @@
+{
+  "name": "hls.js-haxe-extern",
+  "version": "1.0.0",
+  "description": "Basic externs for hls.js javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grosmar/hls.js-haxe-extern.git"
+  },
+  "keywords": [
+    "haxe",
+    "javascript",
+    "video",
+    "hls"
+  ],
+  "author": "Balázs Zubák",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grosmar/hls.js-haxe-extern/issues"
+  },
+  "homepage": "https://github.com/grosmar/hls.js-haxe-extern#readme"
+}
