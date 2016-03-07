@@ -1,0 +1,11 @@
+{
+  "name": "hls.js-extern",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["hls.js", "extern"],
+  "description": "Extern files for hls.js",
+  "contributors": ["grosmar"],
+  "releasenote": "First release. Still alpha testing",
+  "version": "0.1.0",
+  "url": "https://github.com/grosmar/hls.js-haxe-extern"
+}
